@@ -1,0 +1,6 @@
+[submodule "sail_ppx_show"]
+	path = sail_ppx_show
+	url = https://github.com/jevinskie/sail_ppx_show
+[submodule "sail_ppx_show_test"]
+	path = sail_ppx_show_test
+	url = https://github.com/jevinskie/sail_ppx_show_test
